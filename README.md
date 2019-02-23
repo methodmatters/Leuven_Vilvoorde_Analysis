@@ -1,4 +1,4 @@
-# Data and code for blog post on analysis of open government data, crime & feelings of safety in Leuven & Vilvoorde
+# Data and code for blog post on analysis of Belgian open government data, crime & feelings of safety in Leuven & Vilvoorde
 
 The content here accompanies the following blog post:
 

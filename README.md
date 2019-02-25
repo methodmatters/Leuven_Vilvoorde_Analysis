@@ -2,7 +2,7 @@
 
 The content here accompanies the following blog post:
 
-LINK HERE
+https://methodmatters.blogspot.com/2019/02/a-tale-of-two-small-belgian-cities-with.html
 
 The "Data" folder contains the raw datasets; the "Scripts" folder contains the R code for the analysis.
 
